@@ -1,0 +1,3 @@
++ package more:
+    - vuex
+    - axios
